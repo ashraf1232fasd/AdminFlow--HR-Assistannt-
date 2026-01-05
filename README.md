@@ -14,7 +14,7 @@ It allows administrators to manage employees, track salaries, generate payrolls,
 | 💰 Payroll Management | Base Salary + Bonuses + Deductions |
 | 📊 Reports Dashboard | Salary analytics and charts |
 | 🤖 AI HR Assistant | Execute HR actions using natural language |
-| ⚡ï¸ Real-Time Sync | Cloud Firestore live updates |
+| ⚡Real-Time Sync | Cloud Firestore live updates |
 | 🎨 Neumorphic UI | Smooth and modern interface |
 
 ---
